@@ -1,0 +1,9 @@
+Package: com.gaojunquan.wxyd
+Name: hookWXYD
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: Joker
+Author: Joker
+Section: Tweaks
